@@ -1,0 +1,14 @@
+*{
+	margin-top: 120px;
+	background-color: #E2ACEC;
+}
+body{
+	text-align: center;
+}
+
+.clock{
+	font-family: 'Bungee Shade', cursive;
+	color: #FFFFFF;
+	font-size: 160px;
+
+}
